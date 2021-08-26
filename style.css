@@ -1,0 +1,71 @@
+body {
+
+    background-color: hsla(164, 38%, 18%, 1);
+    background-image: url('https://png.pngtree.com/background/20210709/original/pngtree-pure-watercolor-gradient-colorful-background-picture-image_964413.jpg');
+}
+
+header{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#description{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+#survey-form{
+    text-align: left;
+    color:rgb(56, 25, 25);
+    margin:20px 25% 20px 25%;
+    width:600px //you can set it in %.
+    padding:20px;
+    background::shadow;
+    border:2px solid #333;
+    display:block;
+    box-shadow: 0px 0px black;
+    font-family='Allison';
+    
+
+
+
+}
+
+
+#name{
+
+    width: 90%;
+    padding-top: 10px;
+    border-radius: 25px;
+}
+#email{
+
+    width: 90%;
+    padding-top: 10px;
+    border-radius: 25px;
+}
+
+#number{
+
+    width: 90%;
+    padding-top: 10px;
+    border-radius: 25px;
+}
+
+#Occupation{
+
+    width: 90%;
+    padding-top: 10px;
+    border-radius: 25px;
+}
+
+
+
+#Submit{
+    text-align: center;
+    
+
+
+}
